@@ -1,8 +1,8 @@
 Munin Master
 =========
 
-A role to setup [Munin](http://munin-monitoring.org/) (mater node). I also have
-a role for Munin slaves.
+A role to setup a [Munin](http://munin-monitoring.org/) master node. I also
+have a role for Munin slaves.
 
 Requirements
 ------------
